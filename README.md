@@ -1,9 +1,5 @@
-### Hi there 👋
+# Olá 👋, me chamo Patrick F. de Sousa, um amante do desenvolvimento e lógica, graduado em Engenharia da Computação pela FAINOR.
 
-
-**patrickfsousa/patrickfsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 Estou atualmente trabalhando como educador social.
 - 🌱 Atualmente estou estudando para concluir minha pos em Eng. de Dados.
