@@ -1,4 +1,5 @@
-# Olá 👋, me chamo Patrick F. de Sousa, um amante do desenvolvimento e lógica, graduado em Engenharia da Computação pela FAINOR.
+# Olá 👋
+## Me chamo Patrick F. de Sousa, um amante do desenvolvimento e lógica, graduado em Engenharia da Computação pela FAINOR.
 
 
 - 🔭 Estou atualmente trabalhando como educador social.
