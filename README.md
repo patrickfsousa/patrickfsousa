@@ -2,7 +2,7 @@
 ## Me chamo Patrick F. de Sousa, um amante do desenvolvimento e lógica, graduado em Engenharia da Computação pela FAINOR.
 
 
-- 🔭 Estou atualmente trabalhando como educador social.
+- 🔭 Educador social.
 - 🌱 Atualmente estou estudando para concluir minha pos em Eng. de Dados.
 - 💬 Me pergunte sobre o espaço e seus mistérios.
 - ⚡ Nunca saio de casa sem minha toalha.
