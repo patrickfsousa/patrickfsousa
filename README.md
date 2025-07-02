@@ -3,7 +3,7 @@
 
 
 - 🔭 Educador social.
-- 🌱 Atualmente estou estudando para concluir minha pos em Eng. de Dados.
+- 🌱 Facinado pelo mundo do Python.
 - 💬 Me pergunte sobre o espaço e seus mistérios.
 - ⚡ Nunca saio de casa sem minha toalha.
 
